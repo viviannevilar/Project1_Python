@@ -1,0 +1,27 @@
+---------- File: historical_6hours.json ----------
+The data spans 6 hours from 10:55 on 22/Jun to 15:55 on 22/Jun.
+
+The minimum temperature was 18.9°C and it occurred at 15:55 on 22/Jun.
+The maximum temperature was 21.1°C and it occurred at 11:55 on 22/Jun and 13:55 on 22/Jun.
+In the last 6 hours there was rain detected during 2 hours, and the total precipitation was 1.0mm.
+There were 6 daylight hours in the past 6 hours.
+The maximum UV index was 3 and it occurred at 11:55 on 22/Jun, 12:55 on 22/Jun and 13:55 on 22/Jun.
+
+---------- File: historical_24hours_a.json ----------
+The data spans 24 hours from 16:55 on 21/Jun to 15:55 on 22/Jun.
+
+The minimum temperature was 16.1°C and it occurred at 20:55 on 21/Jun, 21:55 on 21/Jun, 22:55 on 21/Jun and 23:55 on 21/Jun.
+The maximum temperature was 21.1°C and it occurred at 11:55 on 22/Jun, 13:55 on 22/Jun and 16:55 on 21/Jun.
+In the last 24 hours there was rain detected during 2 hours, and the total precipitation was 1.0mm.
+There were 10 daylight hours in the past 24 hours.
+The maximum UV index was 3 and it occurred at 11:55 on 22/Jun, 12:55 on 22/Jun and 13:55 on 22/Jun.
+
+---------- File: historical_24hours_b.json ----------
+The data spans 24 hours from 21:55 on 18/Jun to 20:55 on 19/Jun.
+
+The minimum temperature was 7.2°C and it occurred at 03:55 on 19/Jun, 06:55 on 19/Jun and 07:55 on 19/Jun.
+The maximum temperature was 17.8°C and it occurred at 12:55 on 19/Jun, 13:55 on 19/Jun, 14:55 on 19/Jun and 15:55 on 19/Jun.
+In the last 24 hours there was rain detected during 0 hours, and the total precipitation was 0mm.
+There were 10 daylight hours in the past 24 hours.
+The maximum UV index was 3 and it occurred at 11:55 on 19/Jun, 12:55 on 19/Jun and 13:55 on 19/Jun.
+
